@@ -1,3 +1,5 @@
+# We don't want to store any of the data in the repo
+data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
